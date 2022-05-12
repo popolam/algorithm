@@ -3,7 +3,7 @@ package baekjoon;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class bk_1759_암호만들기7 {
+public class bk_1759_암호만들기 {
 	static int L, C;
 	static char[] c;
 	static boolean[] visited;

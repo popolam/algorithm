@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class bk_14889_스타트와링크5 {
+public class bk_14889_스타트와링크 {
 	static int N;
 	static int[][] act;
 	static int[] person;
