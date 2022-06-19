@@ -21,8 +21,7 @@ public class BOJ_1987_알파벳 {
 		C = Integer.valueOf(st.nextToken());
 		map = new char[R][C];
 		dp = new int[R][C];
-		
-		// 입력
+	
 		for(int i = 0; i < R; i++) {
 			String line = br.readLine();
 			map[i] = line.toCharArray();
